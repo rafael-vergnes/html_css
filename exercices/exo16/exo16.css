@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(235, 238, 255);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 30vw;
+    border: 2px solid gray;
+}
+
+#image_principale {
+    border: none;
+    display: block;
+    margin: auto;
+    width: 65vw;
+}
+
+#n {
+    display: block;
+    margin: auto;
+    width: 7vw;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: 900;
+}
+
+nav {
+    text-decoration: underline;
+    text-align: center;
+    opacity: 80%;
+    color: gray;
+}
+
+h2 {
+    text-decoration: underline dashed 5px;
+    text-underline-offset: auto;
+}
+
+.blog {
+    text-align: center;
+    color: red;
+    text-decoration: underline red;
+}
+
+#menu {
+    text-align: right;
+    color: red;
+    text-decoration: underline red;
+}
+
+div:nth-last-child(1n+2) {
+    border: solid black 1px;
+}

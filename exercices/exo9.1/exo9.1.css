@@ -1,0 +1,11 @@
+body {
+    background-color: purple;
+    margin: 200px;
+}
+
+div {
+    padding: 200px;
+    margin: 200px;
+    background-color: blue;
+    box-shadow: -10px -10px 20px white, 10px 10px 20px black;
+}

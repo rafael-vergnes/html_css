@@ -1,0 +1,19 @@
+div, p {
+    width: 200px;
+    height: 200px;
+    border: 2px black solid;
+    margin-top: 20px;
+}
+
+div:first-child {
+    background: linear-gradient(to bottom left, red, green, blue);
+}
+
+div + div {
+    background: linear-gradient(-70deg, yellow, purple 25%);
+}
+
+p {
+    background: linear-gradient(white, rgba(0,0,0,0.5));
+}
+

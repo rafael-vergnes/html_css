@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    font-size: 10vw;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    font-size: 4vw;
+}
+
+p {
+    background-color: lightgrey;
+}
+
+.paragraphe3 {
+    background-color: pink;
+}
+
+strong {
+    font-weight: normal;
+    color: greenyellow;
+}
+
+em {
+    font-style: normal;
+    font-size: 2vw;
+    color: orange;
+    text-decoration: underline;
+}
+
+.titre2 {
+    color: green;
+    text-decoration: underline;
+    text-align: right;
+}

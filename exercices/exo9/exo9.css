@@ -1,0 +1,11 @@
+h1 {
+    text-shadow: 5px -5px 5px purple;
+}
+
+p {
+    box-shadow: 0px 0px 15px red;
+}
+
+p:last-child {
+    box-shadow: -5px 5px 5px green;
+}

@@ -1,0 +1,21 @@
+caption {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    border: double blueviolet 5px;
+}
+
+tr:first-child {
+    background-color: lightblue;
+}
+
+td {
+    border: solid black 2px;
+}
+
+th {
+    border: solid black 2px;
+}

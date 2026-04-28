@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(243, 243, 243);
+}
+
+body header {
+    justify-self: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+article {
+    justify-items: center;
+    align-content: center; 
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(187, 187, 187);
+    border-radius: 3%;
+    padding: 20px;
+}
+
+video, iframe {
+    border: none;
+    border-radius: 3%;
+}
+
+video, iframe, audio {
+    margin: 20px;
+}
+
+video {
+    width: 900px;
+}

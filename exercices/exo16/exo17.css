@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(235, 238, 255);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 65vw;
+    }
+
+#n {
+    display: block;
+    margin: auto;
+    width: 7vw;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+
+nav {
+    text-decoration: underline;
+    text-align: center;
+    opacity: 80%;
+    color: gray;
+}
+
+h2 {
+    text-decoration: underline dashed 5px;
+    text-underline-offset: auto;
+}
+
+#menu {
+    text-align: right;
+    color: red;
+    text-decoration: underline red;
+}
+
+span {
+    color: red;
+}
+
+#copie {
+    accent-color: purple;
+}
